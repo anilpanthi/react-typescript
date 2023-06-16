@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Create React App By Using Typescript
 
-Creating React App with type script templates
+## Creating React App with type script templates
 
-npx create-react-app <appname> –template typescript 
+### `npx create-react-app <appname> –template typescript`
 
 Using Typescript with React ? That’s great, but not too much is going to change
 
